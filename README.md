@@ -15,7 +15,7 @@
 Saya merupakan pengembang Backend yang suka menggunakan PHP, Javascript dan Python untuk project saya. Saya juga tengah mencoba mempelajari sisi Frontend untuk merangkap sebagai Fullstack Dev.
 
 <div align="center">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hendrikprwt&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hendprw&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
   <br />
   <br />
 </div>
