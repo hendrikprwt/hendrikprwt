@@ -31,9 +31,9 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://lindungidata.my.id/hendprw"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="[https://www.linkedin.com/in/hendprwt"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:hendrikpurwanto281@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/hendrikprw"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/hendrikprwt"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://lindungidata.my.id/hendprw"><img src="https://img.shields.io/badge/-lindungidata.my.id-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="[https://www.linkedin.com/in/hendprwt"><img src="https://img.shields.io/badge/-Hendrik Purwanto-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:hendrikpurwanto281@gmail.com"><img src="https://img.shields.io/badge/-hendrikpurwanto281@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/hendrikprw"><img src="https://img.shields.io/badge/-@hendrikprw-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/hendrikprwt"><img src="https://img.shields.io/badge/-@hendrikprwt-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
