@@ -13,7 +13,10 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-
+![Debian](https://img.shields.io/badge/-Debian-c95534?style=flat&logo=debian)&nbsp;
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-cfcaa1?style=flat&logo=kali-linux)&nbsp;
+![Debian](https://img.shields.io/badge/-Proxmox%20Virtual%20Environment-21211c?style=flat&logo=Proxmox)&nbsp;
+![Mikrotik](https://img.shields.io/badge/-Mikrotik-21211c?style=flat&logo=Mikrotik)&nbsp;
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
