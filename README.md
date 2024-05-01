@@ -17,10 +17,12 @@
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-cfcaa1?style=flat&logo=kali-linux)&nbsp;
 ![Debian](https://img.shields.io/badge/-Proxmox%20Virtual%20Environment-21211c?style=flat&logo=Proxmox)&nbsp;
 ![Mikrotik](https://img.shields.io/badge/-Mikrotik-21211c?style=flat&logo=Mikrotik)&nbsp;
+![Mikrotik](https://img.shields.io/badge/-Pihole-21211c?style=flat&logo=Pihole)&nbsp;
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/hendprw">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hendprw&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hendprw&layout=compact&langs_count=8&theme=algolia"/>
 </a>
