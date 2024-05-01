@@ -4,7 +4,7 @@
 
 💡 &nbsp;I like to explore new technologies.\
 🌱 &nbsp;I'm currently learning Python, Golang, and Java.\
-✨ &nbsp;I'm on track for learning more about Artificial Intelligence, Machine Learning, and Virtual virtual Environment.\
+✨ &nbsp;I'm on track for learning more about Artificial Intelligence, Machine Learning, and Virtual Environment.\
 
 ### 🛠 &nbsp;Tech Stack
 
